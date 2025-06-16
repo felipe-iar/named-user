@@ -1,5 +1,5 @@
 {
-  "image": "ghcr.io/iarsystems/arm:9.70.1-st",
+  "image": "ghcr.io/iarsystems/riscv:3.40.1",
   "features": {
     "./lmsc": {}
   }
