@@ -1,0 +1,11 @@
+{
+  "image": "ghcr.io/iarsystems/arm:9.70.1-st",
+  "customizations": {
+    "vscode": {
+      "extensions": ["iarsystems.iar-extension-pack"]
+    }
+  },
+  "features": {
+    "./lmsc": {}
+  }
+}
