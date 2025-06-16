@@ -1,0 +1,6 @@
+{
+  "image": "ghcr.io/iarsystems/arm:9.70.1-st",
+  "features": {
+    "./lmsc": {}
+  }
+}
