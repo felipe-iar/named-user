@@ -1,7 +1,9 @@
 # How-to for Named Users
 
 1. Use this template.
+
 2. Create a new codespace.
+
 3. In the devcontainer's bash terminal, run:
 ```console
 # iarlogin login --use-device-code
@@ -9,15 +11,16 @@ To sign in, use a web browser to open the page https://iar.my.site.com/iarlogin/
 and enter code 4BCDEF876 to authenticate.
 Login successful
 ```
+
 4. Test the compiler with
 ```console
-# echo "int main() {}" | iccarm -
+# echo "int main() {}" | iccriscv -
 
-   IAR ANSI C/C++ Compiler V9.70.1.475/LNX for ARM
-   Copyright 1999-2025 IAR Systems AB.
-   LMS Cloud License (LMSC 1.5.0)
+   IAR ANSI C/C++ Compiler V3.40.1.5519/LNX for RISC-V
+   Copyright 2019-2025 IAR Systems AB.
+   LMS Cloud License
  
- 4 bytes of CODE memory
+ 8 bytes of CODE memory
 
 Errors: none
 ```
