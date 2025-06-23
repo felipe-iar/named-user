@@ -23,8 +23,11 @@ Errors: none
 
 4. If you need a project, use https://github.com/iarsystems/bx-workspaces-ci.
 
+## Gallery
+
 ![image](https://github.com/user-attachments/assets/676b32f4-70ee-4270-b400-7daac1cf684d)
 
+![image](https://github.com/user-attachments/assets/b1e551e9-eefa-4468-a033-aea04998a740)
 
 
    
