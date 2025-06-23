@@ -6,7 +6,7 @@
   "image": "ghcr.io/iarsystems/arm:9.70.1-st",
   // Set the Container's environment variables
   "containerEnv": {
-    "HOME": "/workspaces/named-user"
+    "HOME": "/home/ubuntu"
   },
   // Customiszations installs the IAR Extensions for VS Code
   // More information: https://iar.com/vscode
