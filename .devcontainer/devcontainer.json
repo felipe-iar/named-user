@@ -4,6 +4,10 @@
   // Update the image for use with other variants
   // More information: https://github.com/iarsystems/containers/wiki/Arm-image-variants
   "image": "ghcr.io/iarsystems/arm:9.70.1-st",
+  // Set the Container's environment variables
+  "containerEnv": {
+    "HOME": "/workspaces/named-user"
+  },
   // Customiszations installs the IAR Extensions for VS Code
   // More information: https://iar.com/vscode
   "customizations": {
